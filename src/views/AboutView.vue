@@ -3,3 +3,9 @@
     <h1>This is an about page</h1>
   </div>
 </template>
+
+<script>
+import Darkmode from "darkmode-js";
+
+new Darkmode().showWidget();
+</script>
